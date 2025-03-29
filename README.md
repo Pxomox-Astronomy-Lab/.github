@@ -2,9 +2,10 @@
 
 <div align="center">
 
-  <h3>Building the future of open-source radio astronomy research infrastructure</h3>
-  ![proxmox-astronomy-lab-logo](https://github.com/user-attachments/assets/ad43c3f4-aa11-4445-8339-659cfec4a693)
+![logo](https://github.com/user-attachments/assets/ad43c3f4-aa11-4445-8339-659cfec4a693)
 
+  <h3>Building the future of open-source radio astronomy research infrastructure</h3>
+  
   ![GitHub Org's stars](https://img.shields.io/github/stars/Pxomox-Astronomy-Lab/proxmox-astronomy-lab?style=social)
   ![GitHub Org's contributors](https://img.shields.io/github/contributors/Pxomox-Astronomy-Lab/proxmox-astronomy-lab?color=blue)
   ![GitHub Org's open prs](https://img.shields.io/github/issues-pr-raw/Pxomox-Astronomy-Lab/proxmox-astronomy-lab)
